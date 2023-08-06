@@ -1,0 +1,7 @@
+2023-08-06 08:40:22.763501 - Initialized conversion of CBT954
+2023-08-06 08:40:22.805518 - Received CBT.V505.FILE954.PDS from FILE954.XMI 
+2023-08-06 08:40:22.807829 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE954.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:40:22.808987 - Found @FILE954.txt (text/plain) in CBT.V505.FILE954.PDS, moved to PDS/@FILE954
+2023-08-06 08:40:22.809954 - Found CSCF.txt (text/plain) in CBT.V505.FILE954.PDS, moved to PDS/CSCF
+2023-08-06 08:40:22.810842 - Found CSCF$.jcl (text/plain) in CBT.V505.FILE954.PDS, moved to PDS/CSCF$
+2023-08-06 08:40:22.811909 - Found CSCF#.txt (text/plain) in CBT.V505.FILE954.PDS, moved to PDS/CSCF#
