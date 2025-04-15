@@ -1,6 +1,6 @@
-2025-04-15 07:02:31.978620 - Received CBT.V508.FILE954.PDS from FILE954.XMI 
-2025-04-15 07:02:31.979435 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/$$$#DATE
-2025-04-15 07:02:31.979553 - Found @FILE954.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/@FILE954
-2025-04-15 07:02:31.979862 - Found CSCF.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF
-2025-04-15 07:02:31.980010 - Found CSCF$.jcl (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF$
-2025-04-15 07:02:31.980108 - Found CSCF#.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF#
+2025-04-16 01:45:50.477899 - Received CBT.V508.FILE954.PDS from FILE954.XMI 
+2025-04-16 01:45:50.478556 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:45:50.478611 - Found @FILE954.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/@FILE954
+2025-04-16 01:45:50.478742 - Found CSCF.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF
+2025-04-16 01:45:50.478786 - Found CSCF$.jcl (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF$
+2025-04-16 01:45:50.478852 - Found CSCF#.txt (text/plain) in CBT.V508.FILE954.PDS, moved to PDS/CSCF#
